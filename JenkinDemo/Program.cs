@@ -10,6 +10,7 @@ namespace JenkinDemo
     {
         static void Main(string[] args)
         {
+            console.writeline("This is test");
         }
     }
 }
