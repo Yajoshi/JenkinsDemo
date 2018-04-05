@@ -10,7 +10,7 @@ namespace JenkinDemo
     {
         static void Main(string[] args)
         {
-           Console.WriteLine("This is my first jenkin Demo Project!");
+            Console.WriteLine("This is my first jenkin Demo Project!");
         }
     }
 }
